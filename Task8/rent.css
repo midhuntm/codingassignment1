@@ -1,0 +1,33 @@
+.bgimg
+{
+    background-image: url("rent.png");
+    background-size: contain;
+    height: 100vh;
+    background-repeat: no-repeat;
+
+}
+.card
+{
+    height: 200px;
+    width: 420px;
+    margin-top: 400px;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+  
+
+}
+.head1
+{
+    font-size: 35px;
+}
+
+.btn1
+{
+    background-color: white;
+    color: black;
+   margin-left: 150px;
+   margin-top: 50px;
+   padding: 10px;
+   border-radius: 20px;
+}

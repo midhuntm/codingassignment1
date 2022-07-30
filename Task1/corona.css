@@ -1,0 +1,132 @@
+        .bgcolor
+        {
+            background-color: rgb(245, 235, 235);
+            height: 100vh;
+            width: 30vw;
+            background-repeat: no-repeat;
+            background-size: contain;
+            margin-left: 500px;
+        }
+        .div1
+        {
+            margin: 20px;
+        }
+        .btn1
+        {
+            background-color: rgb(50, 50, 152);
+            color: white;
+            border-radius: 30px;
+        }   
+        .img1
+        {   
+            height: 60px;
+            width: 100px;
+            margin-left:80px;
+
+        }
+
+        .bgcolor2
+        {
+            background-color: rgb(136, 171, 181);
+            height: 20vh;
+            width: 30vw;
+        border-radius: 30px;
+        margin-left: 1px;
+        margin-right: 30px;
+        
+        }
+        .img2
+        {
+            height: 100px;
+            width: 100px;
+        
+        }
+        .head1
+        {
+            font-size: 20px;
+            margin-left: 20px;
+            margin-top: 20px;
+        }
+        .head2
+        {
+            font-size: 25px;
+            margin: 10px;
+        }
+        .img3
+        {
+            height: 50px;
+            width: 50px;
+            margin-top: 10px;
+            margin-left: 20px;
+            
+            
+
+        }
+        .bgcolor3
+        {
+            background-color: rgb(99, 162, 99);
+            height: 100px;
+            width: 100px;
+            margin: 10px;
+            border-radius: 20px;
+        }
+        .para1
+        {
+            margin-left: 10px;
+            color: white;
+        }
+
+        .bgcolor4
+        {
+            background-color: purple;
+            height: 100px;
+            width: 100px;
+            opacity: 0.6;
+            border-radius: 20px;
+            margin-top: 10px;
+        }
+
+        .bgcolor5
+        {
+            background-color: violet;
+            height: 100px;
+            width: 100px;
+            margin: 10px;
+            border-radius: 20px;
+            margin-left: 10px;
+
+        }
+
+        .head3
+        {
+            font-size: 25px;
+            margin-left: 10px;
+        }    
+        .div2
+        {
+            background-color: pink;
+            height: 10vw;
+            width: 62vh;
+            border-radius: 30px;
+          
+
+        }
+        .para3
+        {
+            margin-left: 100px;
+            margin-bottom:10px;
+        }
+
+        .head4
+        {
+            margin-top: 10px;
+            margin-left: 30px;
+        }
+        .btn2
+        {
+            background-color: rgb(57, 57, 147);
+            color: white;
+            margin-left: 150px;
+            border-radius: 30px;
+            
+        }

@@ -1,0 +1,44 @@
+.bgimg
+{
+    background-image: url("newsbg.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.card
+{
+    height: 380px;
+    width: 420px;
+    margin-top: 350px;
+    
+}
+.head1
+{
+    font-size: 20px;
+    margin: 20px;
+    color: grey;
+}
+.para1
+{
+    margin: 20px;
+    color: black;
+    font-size: 20px;
+}
+.para2
+{
+    margin:20px;
+    color: grey;
+    font-size: 15px;
+}
+
+.btn1
+{
+    background-color: gray;
+    color: white;
+    height: 50px;
+    width: 100px;
+    margin: 20px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
